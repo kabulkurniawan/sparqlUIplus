@@ -1,0 +1,107 @@
+<style type="text/css">
+/*<![CDATA[*/
+html { padding: 0; }
+body {
+padding: 0;
+margin: 0;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 9pt;
+color: #333;
+background-color: #FDFDFD;
+}
+#header {
+padding: 0;
+margin: 0;
+background-color: #86B9D9;
+color: #FFFFFF;
+border-bottom: 1px solid #AAA;
+}
+#header h1 {
+font-size: 16pt;
+font-weight: normal;
+text-align: left;
+vertical-align: middle;
+padding: 4px 8px 4px 8px;
+margin: 0px 0px 0px 0px;
+}
+#menu {
+margin-left: 8px;
+margin-right: 8px;
+margin-top: 0px;
+clear: right;
+float: right;
+}
+#intro,#main {
+margin-left: 8px;
+margin-right: 8px;
+}
+#help {
+margin-left: 8px;
+margin-right: 8px;
+width: 80%
+}
+#footer {
+width: 100%;
+float: left;
+clear: left;
+margin: 2em 0 0;
+padding-top: 0.7ex;
+border-top: 1px solid #AAA;
+font-size: 8pt;
+text-align: center;
+}
+fieldset {
+border: 0;
+padding: 0;
+margin: 0;
+}
+fieldset label {
+font-weight: normal;
+white-space: nowrap;
+font-size: 11pt;
+color: #000;
+}
+fieldset label.n {
+display: block;
+vertical-align: bottom;
+margin-top:5px;
+width: 160px;
+float:left;
+white-space: nowrap;
+}
+fieldset label.n:after { content: ":"; }
+fieldset label.n1 {
+display: block;
+vertical-align: bottom;
+margin-top:5px;
+width: 160px;
+float:left;
+white-space: nowrap;
+}
+fieldset label.ckb {
+width: 160px;
+font-weight: normal;
+font-size: 10pt;
+}
+fieldset label.ckb:after { content: ""; }
+fieldset textarea {
+width: 99%;
+font-family: monospace;
+font-size: 10pt;
+}
+#cxml {
+clear: both;
+display: block;
+}
+#savefs {
+clear: both;
+display: block;
+}
+span.info {
+font-size: 9pt;
+white-space: nowrap;
+height: 2em;
+}
+br { clear: both; }
+/*]]>*/
+</style>
